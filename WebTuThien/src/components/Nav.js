@@ -5,7 +5,7 @@ class Nav extends Component {
         return (
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark static-top">
         <div className="container col-12">
-          <a className="navbar-brand" href="#">Trang chủ</a>
+          <a className="navbar-brand" href="/home">Trang chủ</a>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
           </button>
